@@ -1,5 +1,3 @@
-# ¡Hola! 👋
-
 ### ¿Quién soy?
 Soy **Fernando**, un desarrollador web de Uruguay con pasión por solucionar problemas. Me enfoca mucho cuidar la estética de los productos y mejorar la experiencia del usuario. 
 
